@@ -39,7 +39,7 @@
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
   "terminal.integrated.fontFamily": "JetBrains Mono, Fira Code, Cascadia Code, monospace",
-  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontSize": 12,
   "terminal.integrated.lineHeight": 1.4,
   "terminal.integrated.letterSpacing": 0.5,
   "terminal.integrated.cursorBlinking": true,
